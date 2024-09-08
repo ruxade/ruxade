@@ -1,4 +1,4 @@
-# Hey! I'm Adelina 👋
+# Hey! I'm Adelina 😁
 
 **Aspiring Full-Stack Web Developer** | Former Architect 🌚
 
@@ -16,20 +16,18 @@ I’m an architect making the exciting transition into **full-stack web developm
 
 Diving deeper into **React.js** for the front end, and learning **Node.js** and **MongoDB** for server-side and database management. Exploring **Three.js** to add 3D graphics to web applications.
 
-### 🎯 **What’s Next?**
-- Building responsive, dynamic web apps 💻
-- Collaborating on projects and learning through hands-on experience 🤝
+### 🎯 **Projets**
+... 
 
 ---
 ### 🌱 **Currently Building**
-
+... 
 
 ---
 
-### 🌐 **Find Me Online** TBU
+### 🌐 **Find Me Online** ... TBU
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-green)](https://ruxade.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ruxade/)
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
