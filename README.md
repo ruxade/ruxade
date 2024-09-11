@@ -12,9 +12,9 @@ I’m an architect making the exciting transition into **full-stack web developm
 ---
 
 ### 🌱 **Currently Learning**
-![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) 
 
-Diving deeper into **React.js** for the front end, and learning **Node.js** and **MongoDB** for server-side and database management. Exploring **Three.js** to add 3D graphics to web applications.
+Diving deeper into **React.js** for the front end, and learning **Node.js**. Exploring **Three.js** to add 3D graphics to web applications.
 
 ### 🎯 **Projets**
 ... 
