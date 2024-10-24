@@ -35,6 +35,16 @@ Diving deeper into **React.js** for the front end, and learning **Node.js**. Exp
 ---
 [![](https://visitcount.itsvg.in/api?id=ruxade&icon=0&color=0)](https://visitcount.itsvg.in)
 
+- uses: Platane/snk@v3
+  with:
+    # GitHub username to read the contribution graph from
+    github_user_name: ruxade  # Your GitHub username
+
+    # List of files to generate, with custom options
+    outputs: |
+      dist/github-snake.svg                           # Default snake graph
+      dist/github-snake-dark.svg?palette=github-dark  # Dark-themed snake graph
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  # GIF with custom colors
 
 
 
