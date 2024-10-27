@@ -1,8 +1,25 @@
-![image](https://github.com/user-attachments/assets/7f557c63-64bf-4448-8ec5-81e1d6a3e51f)<h1 align="center">Hey! I'm Adelina 😁</h1>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+
+<!-- Container for the Lottie player and centered image -->
+<div style="position: relative; width: 300px; height: 300px;">
+
+    <!-- Lottie player -->
+    <dotlottie-player 
+        src="https://lottie.host/adb46838-1490-472c-8c64-c6369bf3a141/nx2PZKwcWC.json" 
+        background="transparent" 
+        speed="1" 
+        style="width: 100%; height: 100%;" 
+        loop autoplay>
+    </dotlottie-player>
+
+    <!-- Centered image -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <img src="https://media.licdn.com/dms/image/v2/D4D16AQGjGmhI94CqQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725825749737?e=1735776000&v=beta&t=_vUytvtv86mjVgTme5WZHHmCCyzt5ileWTK72PNcEEY" 
+             alt="A Very Cool Background Image" 
+             style="width:100px; height:100px; border-radiu
 
 
-
-**Aspiring Full-Stack Web Developer** | also an Architect 🌚
+**Full-Stack Web Developer** | also an Architect 🌚
 
 I’m an architect making the exciting transition into **full-stack web development**. After years of designing physical structures, I’m now focused on building things in the digital space—creating both **front-end** and **back-end** web applications.
 
