@@ -1,22 +1,4 @@
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-
-<!-- Container for the Lottie player and centered image -->
-<div style="position: relative; width: 300px; height: 300px;">
-
-    <!-- Lottie player -->
-    <dotlottie-player 
-        src="https://lottie.host/adb46838-1490-472c-8c64-c6369bf3a141/nx2PZKwcWC.json" 
-        background="transparent" 
-        speed="1" 
-        style="width: 100%; height: 100%;" 
-        loop autoplay>
-    </dotlottie-player>
-
-    <!-- Centered image -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <img src="https://media.licdn.com/dms/image/v2/D4D16AQGjGmhI94CqQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725825749737?e=1735776000&v=beta&t=_vUytvtv86mjVgTme5WZHHmCCyzt5ileWTK72PNcEEY" 
-             alt="A Very Cool Background Image" 
-             style="width:100px; height:100px; border-radiu
+![LinkedIn Background Image](https://media.licdn.com/dms/image/v2/D4D16AQGjGmhI94CqQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725825749737?e=1735776000&v=beta&t=_vUytvtv86mjVgTme5WZHHmCCyzt5ileWTK72PNcEEY)
 
 
 **Full-Stack Web Developer** | also an Architect 🌚
