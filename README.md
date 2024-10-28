@@ -17,26 +17,29 @@ I’m an architect making the exciting transition into **full-stack web developm
 
 ## 💻 Tech Stack
 
-##### Front End
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" />
-  </a>
-</p>
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center">
+      <h4>Front End</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" />
+      </a>
+    </td>
+    <td align="center">
+      <h4>Back End</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,sqlite" />
+      </a>
+    </td>
+    <td align="center">
+      <h4>Other Tools</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=heroku,figma,ai,ps,premiere,blender" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-##### Back End
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,sqlite" />
-  </a>
-</p>
-
-##### Other Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,github,figma,ai,ps,premiere,blender" />
-  </a>
-</p>
 
 ## 🌱 **Currently Learning**
 
@@ -56,9 +59,30 @@ Exploring **React.js** for front-end development, learning **Node.js** for back-
 
 ## 🎯 **Projets**
 
-| Skills4Share                                                                                           | HabitMate                                                                                             | BookClub (Work in Progress)                                                                          | 3D_Chess (Work in Progress)                                                                          |
-|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Skills4Share**<br>A platform for users to share unique skills and learn from others in a collaborative environment. Simple, accessible design focuses on fostering user engagement.<br><br>**Tech Stack:** Ruby on Rails, HTML, CSS, JavaScript, Heroku, Cloudinary | **[HabitMate](https://habitmate.me)**<br>A mobile app to help users track habits, monitor progress, and stay motivated. Includes streak tracking, goal setting, and social sharing.<br><br>**Tech Stack:** Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL | **Book Club**<br>*(Work in Progress)*<br>A platform for book enthusiasts to connect, discuss, and share book recommendations. Designed for social engagement and ease of discovery.<br><br>**Tech Stack:** Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL, Heroku | **3D Chess**<br>*(Work in Progress)*<br>An immersive 3D chess game providing a visual experience to enhance strategy and gameplay in a 3D space.<br><br>**Tech Stack:** Three.js, JavaScript, HTML, CSS |
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td align="left">
+      <strong>Skills4Share</strong><br>
+      A platform for users to share unique skills and learn from others in a collaborative environment. Simple, accessible design focuses on fostering user engagement.<br><br>
+      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, Heroku, Cloudinary
+    </td>
+    <td align="left">
+      <strong><a href="https://habitmate.me">HabitMate</a></strong><br>
+      A mobile app to help users track habits, monitor progress, and stay motivated. Includes streak tracking, goal setting, and social sharing.<br><br>
+      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL
+    </td>
+    <td align="left">
+      <strong>Book Club</strong> <em>(Work in Progress)</em><br>
+      A platform for book enthusiasts to connect, discuss, and share book recommendations. Designed for social engagement and ease of discovery.<br><br>
+      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL, Heroku
+    </td>
+    <td align="left">
+      <strong>3D Chess</strong> <em>(Work in Progress)</em><br>
+      An immersive 3D chess game providing a visual experience to enhance strategy and gameplay in a 3D space.<br><br>
+      <strong>Tech Stack:</strong> Three.js, JavaScript, HTML, CSS
+    </td>
+  </tr>
+</table>
 
   
 ## 📊 GitHub Stats:
