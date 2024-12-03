@@ -16,30 +16,26 @@ I’m an architect making the exciting transition into **full-stack web developm
 </div>
 
 ## 💻 Tech Stack
-
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center">
-      <h4>Front End</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" />
-      </a>
-    </td>
-    <td align="center">
-      <h4>Back End</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,sqlite" />
-      </a>
-    </td>
-    <td align="center">
-      <h4>Other Tools</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=heroku,figma,ai,ps,premiere,blender" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="width: 100%; display: flex; justify-content: space-between; gap: 20px;">
+  <div style="text-align: center; flex: 1;">
+    <h4>Front End</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" />
+    </a>
+  </div>
+  <div style="text-align: center; flex: 1;">
+    <h4>Back End</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,sqlite" />
+    </a>
+  </div>
+  <div style="text-align: center; flex: 1;">
+    <h4>Other Tools</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=heroku,figma,ai,ps,premiere,blender" />
+    </a>
+  </div>
+</div>
 
 ## 🌱 **Currently Learning**
 
@@ -57,32 +53,7 @@ I’m an architect making the exciting transition into **full-stack web developm
 
 Exploring **React.js** for front-end development, learning **Node.js** for back-end applications, and diving into **Three.js** for 3D graphics in web applications.
 
-## 🎯 **Projets**
 
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td align="left">
-      <strong>Skills4Share</strong><br>
-      A platform for users to share unique skills and learn from others in a collaborative environment. Simple, accessible design focuses on fostering user engagement.<br><br>
-      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, Heroku, Cloudinary
-    </td>
-    <td align="left">
-      <strong><a href="https://habitmate.me">HabitMate</a></strong><br>
-      A mobile app to help users track habits, monitor progress, and stay motivated. Includes streak tracking, goal setting, and social sharing.<br><br>
-      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL
-    </td>
-    <td align="left">
-      <strong>Book Club</strong> <em>(Work in Progress)</em><br>
-      A platform for book enthusiasts to connect, discuss, and share book recommendations. Designed for social engagement and ease of discovery.<br><br>
-      <strong>Tech Stack:</strong> Ruby on Rails, HTML, CSS, JavaScript, PostgreSQL, Heroku
-    </td>
-    <td align="left">
-      <strong>3D Chess</strong> <em>(Work in Progress)</em><br>
-      An immersive 3D chess game providing a visual experience to enhance strategy and gameplay in a 3D space.<br><br>
-      <strong>Tech Stack:</strong> Three.js, JavaScript, HTML, CSS
-    </td>
-  </tr>
-</table>
 
   
 ## 📊 GitHub Stats:
