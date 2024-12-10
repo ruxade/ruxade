@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk5MzR0dzNlZGlhY3FxNjl2MW9ybmdqNnVveWc1cmc3eGppOXF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-green" alt="Portfolio"></a>
+  <a href="ruxade.me"><img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-gree" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ruxade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </div>
 
