@@ -1,9 +1,16 @@
 
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk5MzR0dzNlZGlhY3FxNjl2MW9ybmdqNnVveWc1cmc3eGppOXF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
-<div align="center">
-  <a href="https://ruxade.me/"><img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-gree" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ruxade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+<div align="center"  style="width: 100%; display: flex; justify-content: space-between; flex: 1;>
+  <!-- Portfolio -->
+  <a href="https://ruxade.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-28a745?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ruxade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 <h1> Hi, I'm Adelina </h1>
@@ -12,26 +19,25 @@
 
 I’m an architect making the exciting transition into **full-stack web development**. After years of designing physical structures, I’m now focused on building things in the digital space—creating both **front-end** and **back-end** web applications.
 
-
 </div>
 
 ## 💻 Tech Stack
 <div style="width: 100%; display: flex; justify-content: space-between; gap: 20px;">
   <div style="text-align: center; flex: 1;">
     <h4>Front End</h4>
-    <a href="https://skillicons.dev">
+     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" />
     </a>
   </div>
   <div style="text-align: center; flex: 1;">
     <h4>Back End</h4>
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,sqlite" />
     </a>
   </div>
   <div style="text-align: center; flex: 1;">
     <h4>Other Tools</h4>
-    <a href="https://skillicons.dev">
+     <a href="#">
       <img src="https://skillicons.dev/icons?i=heroku,figma,ai,ps,premiere,blender" />
     </a>
   </div>
