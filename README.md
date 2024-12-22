@@ -2,15 +2,10 @@
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk5MzR0dzNlZGlhY3FxNjl2MW9ybmdqNnVveWc1cmc3eGppOXF6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
-  <div align="center"  style="width: 100%; display: flex; justify-content: space-between; flex: 1;>
-<a></a>
-  
-💼 [Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)
+[ 💼 Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)
 |
 [🌐 Visit My Portfolio](https://ruxade.me/)
 
-
-</div>
 
 <h1> Hi, I'm Adelina </h1>
 
