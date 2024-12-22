@@ -4,11 +4,9 @@
 
   <div align="center"  style="width: 100%; display: flex; justify-content: space-between; flex: 1;>
 
-<div align="center" style="width: 100%; display: flex; justify-content: space-between; flex: 1;>
+<div align="center" style="display: flex; justify-content: space-between; flex: 1;>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-28a745?style=for-the-badge)](https://ruxade.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruxade/)
-
+🌐 **[Visit Portfolio ](https://ruxade.me/)**         💼 **[Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)**
 </div>
 
 </div>
