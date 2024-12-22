@@ -6,9 +6,10 @@
 
 <div align="center" style="display: flex; justify-content: space-between; flex: 1;>
   
-🌐 **[Visit Portfolio ](https://www.ruxade.me/)**         💼 **[Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)**
+💼 [Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)
+|
 [🌐 Visit My Portfolio](https://ruxade.me/)
-<a href="https://ruxade.me/" target="_blank">🌐 Visit My Portfolio</a>
+
 
 
 </div>
