@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; flex: 1;>
   
-🌐 **[Visit Portfolio ](https://ruxade.me/)**         💼 **[Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)**
+🌐 **[Visit Portfolio ](https://www.ruxade.me/)**         💼 **[Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)**
 </div>
 
 </div>
