@@ -4,7 +4,8 @@
 
   <div align="center"  style="width: 100%; display: flex; justify-content: space-between; flex: 1;>
 
-<div align="center" style="display: flex; justify-content: space-between; flex: 1;>
+<div>
+
   
 💼 [Connect on LinkedIn ](https://www.linkedin.com/in/ruxade/)
 |
