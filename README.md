@@ -9,10 +9,17 @@
 
 <h1> Hi, I'm Adelina </h1>
 
-**Full-Stack Web Developer** | Architect 
 
-I’m an architect making the exciting transition into **full-stack web development**. After years of designing physical structures, I’m now focused on building things in the digital space—creating both **front-end** and **back-end** web applications.
+ **Full-Stack Web Developer**
+<div align="left">
+<p>
+  I’m a <strong>Full-Stack Web Developer</strong> with a background as a <strong>qualified architect</strong>, blending design and development expertise with a passion for <strong>animation</strong> and <strong>3D design</strong>.
+  After completing Le Wagon’s Web Development Bootcamp, I gained hands-on experience with front-end and back-end technologies like <strong>Ruby on Rails</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>PostgreSQL</strong>.<br>
+  Currently, I’m diving into <strong>3D web development with Three.js</strong> and expanding my skills in <strong>React</strong> to build interactive, immersive digital experiences.
+</p>
 
+
+</div>
 </div>
 
 ## 💻 Tech Stack
